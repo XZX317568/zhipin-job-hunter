@@ -1,0 +1,47 @@
+# 依赖
+node_modules/
+
+# Build & runtime
+dist/
+*.exe
+*.tar.gz
+
+# Temp files from development
+*.png
+*.jpg
+*.gif
+*.webp
+.reasonix/
+
+# Old dev scripts
+debug-*.js
+diagnose.js
+test-*.js
+boss-race.js
+boss-spa.js
+boss-clear.js
+boss-api*.js
+boss-check-time*.js
+boss-detail*.js
+boss-diag2.js
+boss-final.js
+boss-search-final.js
+boss-test*.js
+boss-home.png
+boss-jobs.png
+boss-result.png
+boss-search-*.png
+boss-before.png
+boss-after.png
+boss-final.png
+
+# User personal files
+简历-*.html
+wechat-writer/
+articles/
+cli/
+data/
+%USERPROFILE%/
+article-draft.json
+pixabay.json
+package-lock.json
